@@ -1,0 +1,13 @@
+
+{
+    "jugadores": [
+        {
+            "Nombre": "Alejandro",
+            "Contrase\u00f1a": "147",
+            "Edad": "22",
+            "Completo el juego": 0,
+            "Avatar": "Gandhi",
+            "Tiempo": 0
+        }
+    ]
+}
